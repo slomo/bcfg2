@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#! /usr/bin/env python2
 """
     Module that uses rpm-python to implement the following rpm
     functionality for the bcfg2 RPM and YUM client drivers:
